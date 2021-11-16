@@ -15,7 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "@apollo/client": "^3.4.17",
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "stripe": "^8.189.0"
   },
   "devDependencies": {
     "concurrently": "^5.1.0"
